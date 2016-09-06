@@ -13,3 +13,7 @@ and here comes the reason why it might be simpler to close all documents first:
 
 ... since -- at first -- this is hard to grasp, you'd indeed better close all documents, and spare yourself some doubts.  
 but if this gets cumbersome, there is a faster way, once you become a Scribus expert.
+
+- the preferences are for the future documents,
+- the document settings for the curent document...
+- and in some cases changing the document setting only apply to the future edits in the current document. As an example, if you change the page sizes, the new size will be the default for for the pages you will create in the future.
